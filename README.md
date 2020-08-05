@@ -1,3 +1,3 @@
-### Hi 👋
-
-[![logo](http://marii.info/assets/snake.png)](http://marii.info)
+<a href="http://marii.info">
+  <img src="http://marii.info/assets/snake.png" width="150"/>
+</a>
