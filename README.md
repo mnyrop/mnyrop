@@ -6,7 +6,7 @@ humanities data dev in nyc
 🔭 i’m currently working on [soul of reason](https://nyu-dss.github.io/soul-of-reason/)  
 🌱 i’m currently learning **go, ansible, docker-compose**  
 👯 i’m looking to collaborate on [wax_tasks](https://github.com/minicomp/wax_tasks)  
-🤝 i’m looking for help with [wax](https://github.com/minicomp/wax)  
+🤝 i’m looking for help with [wax_theme](https://github.com/minicomp/wax)  
 💬 ask me about **data wrangling, static sites, devops for humanitists**  
 
 
