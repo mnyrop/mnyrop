@@ -1,4 +1,8 @@
-<a href="http://marii.info"><img src="https://raw.githubusercontent.com/mnyrop/mnyrop/master/snake.png" alt="snake logo link to personal website" style="vertical-align: text-top;" height="25"/></a>
+Hi! 👋
 
-![https://github-readme-stats.vercel.app/api?username=mnyrop&theme=radical&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=mnyrop&theme=radical)
+I'm an open source developer & senior data engineer based in Queens, NY.
+
+I author software packages, design user interfaces, and build cloud architectures and workflows for librarians, archivists, humanities researchers, and other keepers of cultural heritage.
+
+More info is available at [my lil' website](https://marii.info).
 
