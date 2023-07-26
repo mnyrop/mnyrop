@@ -6,3 +6,5 @@ I author software packages, design user interfaces, and build cloud architecture
 
 More info is available at [my lil' website](https://marii.info).
 
+<a rel="me" href="https://code4lib.social/@marii" style="visibility: hidden;"></a>
+
